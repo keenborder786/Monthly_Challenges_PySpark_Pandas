@@ -7,7 +7,7 @@ The rep contains multiple datasets that I analysed in pyspark and pandas. The pu
   
   |  Dataset_Name |Dataset   |NoteBook|   
   |---------------|----------|--------|
-  | Cricket_Data_Challenge | [Cricket_Dataset](https://data.world/raghav333/cricket-players-espn) |   |
+  | Cricket_Data_Challenge | [Cricket_Dataset](https://data.world/raghav333/cricket-players-espn) |   [Cricket_Notebook](https://github.com/keenborder786/Monthly_Challenges_PySpark_Pandas)|
   |   |   |   | 
   |   |   |   |   
   
